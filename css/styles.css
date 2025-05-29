@@ -556,6 +556,8 @@ a {
   background-color: transparent;
   outline: transparent;
   margin-top: 16px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  padding: 8px 16px;
 }
 
 .footer-subscribe-input::placeholder {
