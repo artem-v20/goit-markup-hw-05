@@ -734,6 +734,10 @@ a {
   color: #2e2f4266;
 }
 
+.contacts-form-message {
+  margin-bottom: 16px;
+}
+
 .contacts-form-checkbox-wrapper {
   margin-bottom: 24px;
 }
