@@ -578,6 +578,12 @@ a {
   background-color: #4d5ae5;
   border: none;
   border-radius: 4px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.footer-email-submit-btn:hover,
+.footer-email-submit-btn:focus {
+  background-color: #404bbf;
 }
 
 .footer-telegram-icon {
@@ -801,6 +807,11 @@ a {
   margin-left: auto;
   margin-right: auto;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.contacts-form-submit-btn:hover,
+.contacts-form-submit-btn:focus {
+  background-color: #404bbf;
 }
 
 /* MODAL WINDOW STYLES */
