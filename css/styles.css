@@ -252,7 +252,7 @@ a {
 }
 
 .features-list-item {
-  width: calc((100% - 72px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
 }
 
 .features-icon-wrapper {
