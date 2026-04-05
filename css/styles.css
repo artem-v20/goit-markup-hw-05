@@ -294,7 +294,7 @@ a {
 
 .team-list .team-list-item {
   background-color: #ffffff;
-  width: calc((100% - 72px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
 }
 
 .team-title {
